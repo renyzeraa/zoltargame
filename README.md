@@ -4,6 +4,8 @@ Faaala dev!, seja bem-vindo a mais um projeto.
 
 Desenvolvi junto na primeira edição do evento da Maratona Explorer da RocketSeat 🚀, decidi participar para botar alguns dos meus conhecimentos em pratica e também para continuar adquirindo novos.
 
+<img width="921" height="752" alt="image" src="https://github.com/user-attachments/assets/48c8da33-9902-4548-b053-a1e93d6640c8" />
+
 ## <a href="https://renyzeraa.github.io/zoltargame/" > Deploy 🛫 </a>
 
 O objetivo final é uma brincadeira onde você colocar uma pergunta, e o zaltar ira falar qual sera o destino disso.
